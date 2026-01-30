@@ -34,31 +34,11 @@ Kazakh-British Technical University (KBTU), Almaty
 
 ---
 
-## 🌱 Currently Learning
-
-- Backend development concepts  
-- Object-Oriented Programming (Java)  
-- Blockchain fundamentals and smart contracts  
-- Database design and optimization  
-- Clean code principles  
-
----
-
 ## 🗣 Languages
 
 - Kazakh — native  
 - Russian — fluent  
 - English — B2 level  
-
----
-
-## 🎯 Goals
-
-- Become a confident backend / web developer  
-- Explore blockchain technologies and their real-world applications  
-- Build a strong and structured GitHub portfolio  
-- Apply university knowledge in practical projects  
-- Continuously grow as an IT specialist  
 
 ---
 
