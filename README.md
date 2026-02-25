@@ -1,4 +1,4 @@
-# Hi, I’m Zarina Ospanova 👋
+# Hi, I’m Zarina Ospanova 
 
 I am a student with a strong interest in software development and modern technologies.  
 I enjoy understanding how systems work, writing structured code, and gradually building strong technical foundations.
