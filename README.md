@@ -5,7 +5,6 @@ I enjoy understanding how systems work, writing structured code, and gradually b
 
 🎓 **Bachelor’s student in Information Systems** (2024–2028)  
 Kazakh-British Technical University (KBTU), Almaty
-
 ---
 
 ## 💻 Technical Interests
